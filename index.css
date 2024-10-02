@@ -1,0 +1,39 @@
+table, td, tr {
+    border: 1px solid black;
+}
+
+table  {
+    width: 50%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    background-color: saddlebrown;
+}
+
+td {
+    text-align: center;
+}
+
+.container-flex-horizontal {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.form-choice {
+    width: 30%;
+    height: 800px;
+    margin-top: 5%;
+}
